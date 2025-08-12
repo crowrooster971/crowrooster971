@@ -1,20 +1,18 @@
-![user-feedback development](https://media0.giphy.com/media/v1.Y2lkPTdiYzJhNDkwdnZlaGI0NGxyNHVtaHQ1MTlndWlheXFseDFpYW1tcnd1MzE4eG5sNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hkd41kiT9Zd0AwqVNW/giphy.gif)
-
 # Introduction
-Bonjour, je suis crowrooster971, un développeur passionné par la technologie et l'innovation.
+Bonjour ! Je suis **crowrooster971**, un passionné de technologie et de développement. J'adore créer des projets innovants et apprendre de nouvelles compétences.
 
 # Skills
-- JavaScript
-- Python
-- React
-- Node.js
-- SQL
+- Développement Web (HTML, CSS, JavaScript)
+- Frameworks (React, Vue.js)
+- Langages de programmation (Python, Java)
+- Bases de données (MySQL, MongoDB)
 
 # Projects
-- **MonProjet1**: Une application web pour la gestion de tâches.
-- **MonProjet2**: Un outil d'analyse de données en Python.
+- **MonSiteWeb** : Un site vitrine responsive.
+- **APIREST** : Une API RESTful pour la gestion des utilisateurs.
+- **JeuDePlateforme** : Un jeu de plateforme 2D développé avec Phaser.
 
 # Contacts
-Vous pouvez me contacter via:
-- Email: crowrooster971@example.com
-- LinkedIn: [VotreProfilLinkedIn](https://www.linkedin.com/in/votreprofil)
+Vous pouvez me contacter via :
+- Email : crowrooster971@example.com
+- LinkedIn : [crowrooster971](https://www.linkedin.com/in/crowrooster971)
